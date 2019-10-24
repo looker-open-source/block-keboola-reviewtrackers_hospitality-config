@@ -4,7 +4,6 @@ project_name: "block-keboola-reviewtrackers_hospitality-config"
 
 constant: CONFIG_PROJECT_NAME {
   value: "block-keboola-reviewtrackers_hospitality-config"
-  export: override_required
 }
 
 constant: CONNECTION {
