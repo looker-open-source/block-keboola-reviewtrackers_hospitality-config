@@ -1,9 +1,9 @@
-project_name: "block-keboola-reviewtrackers_hospitality-config"
+project_name: "block-keboola-reviews-config"
 
 ################ Constants ################
 
 constant: CONFIG_PROJECT_NAME {
-  value: "block-keboola-reviewtrackers_hospitality-config"
+  value: "block-keboola-reviews-config"
 }
 
 constant: CONNECTION {
